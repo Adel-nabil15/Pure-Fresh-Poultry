@@ -1,0 +1,2 @@
+Pure Fresh Poultry – Backend Developer (Freelancer)
+My contribution to the Pure Fresh Poultry project as a freelancer involved developing the backend using Node.js and Express, where I received user-submitted data (such as name, email, and phone number), processed it, and then sent it to the owner via email using Nodemailer. The focus was on ensuring data security and efficient, reliable email delivery.
